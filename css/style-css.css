@@ -52,4 +52,11 @@ body {
     padding: 13px;
     margin-bottom: 20px;
     font-size: 14px;
+    transition: 0.4s;
+    font-weight: 700;
+}
+.profile ul li a:hover {
+    color: var(--Off-Black)!important;
+    background-color: var(--color-Green);
+    cursor: pointer;
 }
